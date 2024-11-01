@@ -1,5 +1,14 @@
 ## Hey, I'm Shon! 👋
 
+<a href="./assets/ShonVerch_CV.pdf"><img src="https://img.shields.io/badge/Résumé-red?logo=adobeacrobatreader"></a>
+<a href="https://www.linkedin.com/in/shon-verch/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+<a href="mailto:verchshon@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
+<a href='https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=LG2_LtQAAAAJ#' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
+
+<br/> 
+
 - 📖 Computer Science @ [The University of Toronto](https://www.utoronto.ca/).
   
 - 🔭 AI Researcher @ [The SocialAI Group](https://social-ai.ca/).
