@@ -1,4 +1,4 @@
-## shon verch
+## Hey, I'm Shon! 👋
 
 - 📖 Computer Science @ [The University of Toronto](https://www.utoronto.ca/).
 - 🔭 AI Researcher @ [The SocialAI Group](https://social-ai.ca/).
