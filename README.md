@@ -1,6 +1,6 @@
 ## shon verch
 
-- 📖 Computer Science @ The University of Toronto.
+- 📖 Computer Science @ [The University of Toronto](https://www.utoronto.ca/).
 - 🔭 AI Researcher @ [The SocialAI Group](https://social-ai.ca/).
 - 🌱 Currently exploring biologically plausible neural networks and modelling strategic emergent behaviour in multi-agent environments using deep reinforcement learning (RL).
 - 📫 Send me an email at [verchshon@gmail.com](mailto:verchshon@gmail.com). I'm always open to chat!
