@@ -1,5 +1,10 @@
-## Hi there 👋
+## shon verch
 
+- 📖 Computer Science @ The University of Toronto.
+- 🔭 AI Researcher @ [The SocialAI Group](https://social-ai.ca/).
+- 🌱 Currently exploring biologically plausible neural networks and modelling strategic emergent behaviour in multi-agent environments using deep reinforcement learning (RL).
+- 📫 Send me an email at [verchshon@gmail.com](mailto:verchshon@gmail.com). I'm always open to chat!
+  
 <!--
 **galacticglum/galacticglum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
