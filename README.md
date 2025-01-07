@@ -10,6 +10,8 @@
 - 🔭 AI Researcher @ [The SocialAI Group](https://social-ai.ca/).
   
 - 🌱 Currently exploring developing novel biologically plausible neural networks and modelling strategic emergent behaviour in multi-agent environments using deep reinforcement learning (RL).
+
+- 🧩 Outside of my work, I'm interested in creative writing, making music, and rock climbing!
   
 - 📫 Send me an email at [verchshon@gmail.com](mailto:verchshon@gmail.com). I'm always open to chat!
   
