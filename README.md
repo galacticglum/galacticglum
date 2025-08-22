@@ -15,7 +15,7 @@
 
 - 🎨 Outside of my work, I'm interested in cooking, making music, drawing, creative writing, and rock climbing!
   
-- 📫 Send me an email at [verchshon@gmail.com](mailto:verchshon@gmail.com). I'm always open to chat!
+- 📫 Send me an email at [contact@shonverch.com](mailto:verchshon@gmail.com). I'm always open to chat!
   
 <!--
 **galacticglum/galacticglum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
