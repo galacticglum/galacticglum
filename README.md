@@ -7,7 +7,7 @@
 
 - 👷‍♀️ Helping to build reliable infrastructure @ [Stripe](https://github.com/stripe/) as a member of the HADR team
   
-- 🔭 Previously: AI Research @ [The SocialAI Group](https://social-ai.ca/), SWE Intern @ [Microsoft](https://github.com/microsoft), SWE Intern @ [IBM](https://github.com/ibm)
+- 🔭 Previously: AI Research @ [The SocialAI Group](https://social-ai.ca/), SWE Intern @ [Microsoft](https://github.com/microsoft), and SWE Intern @ [IBM](https://github.com/ibm).
 
 - 📖 CS Graduate @ [The University of Toronto](https://www.utoronto.ca/).
   
