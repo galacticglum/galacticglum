@@ -6,12 +6,12 @@
 <a href='https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=LG2_LtQAAAAJ#' target="_blank"><img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'></a>
 
 - 👷‍♀️ Helping to build reliable infrastructure @ [Stripe](https://github.com/stripe/) as a member of the HADR team
-
-- 📖 CS Graduate @ [The University of Toronto](https://www.utoronto.ca/).
   
 - 🔭 Previously: AI Research @ [The SocialAI Group](https://social-ai.ca/), SWE Intern @ [Microsoft](https://github.com/microsoft), SWE Intern @ [IBM](https://github.com/ibm)
   
 - 🌱 Research interests involve exploring developing novel biologically plausible neural networks and modelling strategic emergent behaviour in multi-agent environments using deep reinforcement learning (RL).
+
+- 📖 CS Graduate @ [The University of Toronto](https://www.utoronto.ca/).
 
 - 🎨 Outside of my work, I'm interested in cooking, making music, drawing, creative writing, and rock climbing!
   
