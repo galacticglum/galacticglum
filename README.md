@@ -9,7 +9,7 @@
 
 - 📖 CS Graduate @ [The University of Toronto](https://www.utoronto.ca/).
   
-- 🔭 Previously: AI Research @ [The SocialAI Group](https://social-ai.ca/), SWE Intern @ [Microsoft](https://github.com/microsoft), SWE Intern @ IBM [IBM](https://github.com/ibm)
+- 🔭 Previously: AI Research @ [The SocialAI Group](https://social-ai.ca/), SWE Intern @ [Microsoft](https://github.com/microsoft), SWE Intern @ [IBM](https://github.com/ibm)
   
 - 🌱 Research interests involve exploring developing novel biologically plausible neural networks and modelling strategic emergent behaviour in multi-agent environments using deep reinforcement learning (RL).
 
