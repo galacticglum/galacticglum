@@ -13,7 +13,7 @@
   
 - 🌱 Research interests involve exploring developing novel biologically plausible neural networks and modelling strategic emergent behaviour in multi-agent environments using deep reinforcement learning (RL).
 
-- 🎨 Outside of my work, I'm interested in making music, drawing, and writing! I'm currently combining these passions by working on a game prototype 🙈🙈
+- 🎨 Outside of my work, I'm interested in making music, drawing, and writing!
   
 - 📫 Send me an email at [contact@shonverch.com](mailto:contact@shonverch.com). I'm always open to chat!
   
