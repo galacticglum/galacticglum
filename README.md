@@ -1,4 +1,4 @@
-## Hey, I'm Shon! 👋
+## Hey, I'm Shon! 👋 
 
 <a href="./assets/ShonVerch_CV.pdf"><img src="https://img.shields.io/badge/Résumé-red?logo=adobeacrobatreader"></a>
 <a href="https://www.linkedin.com/in/shon-verch/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
@@ -13,7 +13,7 @@
   
 - 🌱 Research interests involve exploring developing novel biologically plausible neural networks and modelling strategic emergent behaviour in multi-agent environments using deep reinforcement learning (RL).
 
-- 🎨 Outside of my work, I'm interested in cooking, making music, drawing, creative writing, and rock climbing!
+- 🎨 Outside of my work, I'm interested in making music, drawing, and writing! I'm currently combining these passions by working on a game prototype 🙈🙈
   
 - 📫 Send me an email at [contact@shonverch.com](mailto:contact@shonverch.com). I'm always open to chat!
   
